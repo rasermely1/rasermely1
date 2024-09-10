@@ -19,7 +19,6 @@ I'm Ryan, a senior at Louisiana State University majoring in computer science. I
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-asermely-005322261/)
-- [Personal Website](https://yourwebsite.com)
 - [Email](mailto:ryanasermely@gmail.com)
 
 ## ✨ Fun Facts
