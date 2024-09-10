@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rasermely1/rasermely1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ryan, a senior at Louisiana State University majoring in computer science. I have a passion for web development, AI integration, and creating innovative software solutions. 
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing a Web Application Development Club at LSU to help students learn and build web applications together.
+- Working on integrating LLMs with Excel spreadsheets to explore AI capabilities in practical applications.
+- Exploring modular AI systems for collaborative task solving.
+
+## 💻 Technologies & Tools
+
+- **Languages**: Python, TypeScript, JavaScript, HTML, CSS, Java
+- **Frameworks & Libraries**: Flask, React, Django
+- **AI/ML Tools**: OpenAI's GPT, LangChain, Llama Index
+- **Database**: MySQL, MongoDb
+- **Version Control**: Git, GitHub, Bitbucket
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ryan-asermely-005322261/)
+- [Personal Website](https://yourwebsite.com)
+- [Email](mailto:ryanasermely@gmail.com)
+
+## 📊 GitHub Stats
+
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## ✨ Fun Facts
+
+- I'm currently learning advanced AI model integration.
+- I enjoy juijutsu and chess.
+- I'm always looking for new tech challenges!
+
