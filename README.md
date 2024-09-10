@@ -22,10 +22,6 @@ I'm Ryan, a senior at Louisiana State University majoring in computer science. I
 - [Personal Website](https://yourwebsite.com)
 - [Email](mailto:ryanasermely@gmail.com)
 
-## 📊 GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## ✨ Fun Facts
 
 - I'm currently learning advanced AI model integration.
