@@ -4,7 +4,7 @@ I'm Ryan, a senior at Louisiana State University majoring in computer science. I
 
 ## 🚀 What I'm Currently Working On
 
-- Developing a Web Application Development Club at LSU to help students learn and build web applications together.
+- Developing a Web Application Development Student Organization at LSU to help students learn and build web applications together.
 - Working on integrating LLMs with Excel spreadsheets to explore AI capabilities in practical applications.
 - Exploring modular AI systems for collaborative task solving.
 
